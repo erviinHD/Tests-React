@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en CunterApp debe mostrar el componente <CounterApp /> 1`] = `ShallowWrapper {}`;
